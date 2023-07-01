@@ -1,0 +1,25 @@
+%token WORD NUM ADD SUB
+%start cal
+
+%%
+    cal:cal WORD WORD NUM
+        |
+        
+%%
+
+
+if(x==1)
+        printf("Parsing done: accepted\n");
+    else
+        printf("not accepted");
+
+       
+    x=0;
+}
+
+int x=1;
+
+val: val WORD NUM
+    |
+
+    %start val

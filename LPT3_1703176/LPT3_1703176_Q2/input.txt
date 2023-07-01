@@ -1,0 +1,4 @@
+def I as INT;
+I = IN(); 
+def J as INT =  I + 10;
+OUT(J); 

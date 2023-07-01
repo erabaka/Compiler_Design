@@ -1,0 +1,10 @@
+int abc(int a);
+int main(){
+    int b = 0;
+    c = 3.9;
+    abc(b);
+}
+int abc(int a){
+    int i = a;
+    return i; 
+}

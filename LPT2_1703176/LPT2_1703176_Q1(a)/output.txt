@@ -1,0 +1,14 @@
+let KEYWORD
+TEXT ID
+as KEYWORD
+integer INT_TYPE
+= ASSIGN
+5 int_val
+; SEMI
+let KEYWORD
+LENGTH ID
+as KEYWORD
+string STR_TYPE
+= ASSIGN
+TEXT ID
+; SEMI

@@ -1,0 +1,6 @@
+
+function isEven(n : int) 
+begin
+   return n % 2.0 == 0; 
+end
+

@@ -1,0 +1,3 @@
+INT num1 = input() + 100
+INT num2 = input() - num1
+output(num2)

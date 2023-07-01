@@ -1,0 +1,15 @@
+ROLL: 17030##
+
+Q1.  Consider following Version1 of Code Snippet:
+
+main function () 
+suru
+       dhori a akta integer
+       dhori b akta integer
+       a soman 2
+       b soman 3 jog a
+       print kori b
+sesh
+
+a. Design Lexical Analysis and Syntax Analysis part of compiler based on the version1 of code snippet.
+b. Design Intermediate Code Generation and Code Generation part of compiler based on the version1 of code snippet.

@@ -1,0 +1,5 @@
+inserting a with type 1
+ID ASSIGN exp SEMI
+1 + 3
+Type INT and Type CHAR are incompatiable
+Syntax error at line 2

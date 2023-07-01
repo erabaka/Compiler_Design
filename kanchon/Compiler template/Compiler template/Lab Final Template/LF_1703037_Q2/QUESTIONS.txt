@@ -1,0 +1,24 @@
+Q2.  Consider following Version2 of Code Snippet:  
+
+Sub main()
+
+Dim x As Single
+Dim i As Integer
+
+x = 0
+i = 1
+
+x = x + i + 1;
+
+For i = 1 To 10
+    x = x + 10
+Next i
+
+If x > 1 Then
+    print(x)
+End If
+
+End Sub
+
+
+Design Lexical Analysis, Syntax Analysis, Intermediate Code Generation and Code Generation part of compiler based on the version2 of code snippet.

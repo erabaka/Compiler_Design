@@ -1,0 +1,15 @@
+main () function 
+
+suru
+
+       mone_kori p ar type hocche int
+
+       mone_kori q  ar type hocche int
+
+       p equal 20
+
+       q  equal 20 biyog 10
+
+       q k_output_a_dekhai
+
+end

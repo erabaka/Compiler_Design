@@ -1,0 +1,5 @@
+main: 
+	flex task.l
+	bison -d task.y
+	gcc lex.yy.c task.tab.c
+	./a<input.txt

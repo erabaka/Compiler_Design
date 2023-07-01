@@ -1,0 +1,2 @@
+let TEXT as integer = 5;
+let LENGTH as string = TEXT; 

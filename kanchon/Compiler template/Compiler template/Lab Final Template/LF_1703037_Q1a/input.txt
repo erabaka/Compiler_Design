@@ -1,0 +1,8 @@
+main function () 
+suru
+       dhori a akta integer
+       dhori b akta integer
+       a soman 2
+       b soman 3 jog a
+       print kori b
+sesh

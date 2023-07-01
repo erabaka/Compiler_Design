@@ -1,0 +1,12 @@
+Q1.  Generate an Assembly Program for expression: 
+X = 2; 
+
+while(X < 20) 
+
+{ 
+
+X = X+3;
+
+print(X);
+
+}

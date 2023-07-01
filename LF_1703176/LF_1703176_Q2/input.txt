@@ -1,0 +1,25 @@
+main () function
+
+suru
+
+       mone_kori  a ar type hocche int
+
+       mone_kori  b ar type hocche int
+
+        a equal 0
+
+       while_loop( a less than 10)
+
+         suru
+
+                 a equal a jog 1
+
+                 b equal a jog 2
+
+          end
+
+            b k_output_a_dekhai
+
+
+
+end
